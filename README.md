@@ -1,1 +1,1 @@
-# Accordion in JavaScript 
+# Accordion in JavaScript
